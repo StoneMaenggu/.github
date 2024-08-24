@@ -10,3 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+
+본 프로젝트는 SKT FLY AI CHALLEGER 5기에서 진행되었습니다.
