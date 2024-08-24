@@ -13,3 +13,7 @@
 
 
 본 프로젝트는 SKT FLY AI CHALLEGER 5기에서 진행되었습니다.
+
+## Architecture
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/055e0eec-f385-4e75-8fcb-91dc80459a32">
+
